@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+* {
+    font-family:Outfit;
+    font-weight: 400, 700;
+    
+}
+body, html, footer {
+margin: 0;
+}
+.Qrimage {
+    border-radius:5%;
+}
+.Code {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+.first-text {
+display: flex;
+justify-content: center;
+
+}
+.Main-text {
+    font-size: 20px;
+}
+.second-text { 
+    white-space: pre;
+    display: flex;
+    justify-content: center;
+}
